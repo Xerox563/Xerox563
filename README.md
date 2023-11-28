@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gangwaramit449@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q7zDGOGtAwK3LQp-w8oAABAepLKBTvuc/view?usp=sharing]([https://drive.google.com/file/d/1q7zDGOGtAwK3LQp-w8oAABAepLKBTvuc/view?usp=sharing](https://drive.google.com/file/d/1pAktoUBQi5zE6dbC69io6rKYmWF6UVW5/view?usp=drive_link))
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1q7zDGOGtAwK3LQp-w8oAABAepLKBTvuc/view?usp=sharing]([https://drive.google.com/file/d/1q7zDGOGtAwK3LQp-w8oAABAepLKBTvuc/view?usp=sharing)](https://drive.google.com/file/d/1pAktoUBQi5zE6dbC69io6rKYmWF6UVW5/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
