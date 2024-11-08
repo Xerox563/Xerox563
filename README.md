@@ -127,12 +127,12 @@
   </a>
 </p>
 
-
-
-
+[![Amit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xerox563&&theme=xcode)](https://github.com/xerox563)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xerox563&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xerox563" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xerox563&show_icons=true&locale=en&theme=tokyonight" alt="xerox563" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xerox563&&theme=tokyonight" alt="xerox563" /></p>
 
 
