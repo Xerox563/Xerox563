@@ -4,19 +4,53 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xerox563&label=Profile%20views&color=0e75b6&style=flat" alt="xerox563" /> </p>
+----------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **QuickChat: Real-Time Messaging**
 
-- 🌱 I’m currently learning **TypeScript and Metasploit**
+<h2> Hi, I'm Amit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 💬 Ask me about **MERN , Linux**
+<p><em>Software Enginner Intern at <a href="https://www.linkedin.com/company/stealth-startup-51/">Stealth Startup</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Final Year student at <a href="https://bietjhs.ac.in/">BIET Jhansi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 📫 How to reach me **gangwaramit449@gmail.com**
+[![GitHub Amit](https://img.shields.io/github/followers/Xerox563?label=follow&style=social)](https://github.com/Xerox563)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Amit-green?style=flat-square&logo=web&logoColor=white&link=https://portfolio-amit7.netlify.app/)](https://portfolio-amit7.netlify.app/)
 
-- ⚡ Fun fact **I am Funny**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1q7zDGOGtAwK3LQp-w8oAABAepLKBTvuc/view?usp=sharing)](https://drive.google.com/file/d/1RicrAk-0VjdfweRpwdtYqk84xXOT4KaW/view?usp=sharing)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const amit = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "C", "C++", "HTML", "CSS", "Java", "React", "Node.js", "MongoDB", "SQL", "TypeScript", "Python"],
+  tools: ["React", "Redux", "Node.js", "Next.js", "Tailwind CSS", "Material UI", "Bootstrap", "Express.js", "Firebase", "GitHub", "Postman", "VS Code", "ChatGPT"],
+  architecture: ["microservices", "event-driven", "full-stack", "design system pattern"],
+  techCommunities: {
+    coorganizer: "Coding Club",
+    mentor: "SEWA NGO",
+    openSourceContributor: "GSSOC '24"
+  },
+ challenge: "I am doing the #100DaysOfCode challenge focused on React and Full Stack Development.",
+  learning: ["GraphQL", "Linux"],
+  experience: {
+    softwareEngineerIntern: "Bluestock Fintech",
+    openSourceContributor: "GSSOC '24"
+  },
+  education: {
+    college: "Bundelkhand Institute of Engineering and Technology, Jhansi",
+    degree: "B.Tech in Information Technology",
+    cgpa: "8.30/10",
+    year: "2021-2025"
+  }
+};
+
+```
+
+---
+
+
+
+-----------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -127,7 +161,6 @@
   </a>
 </p>
 
-[![Amit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=xerox563&&theme=xcode)](https://github.com/xerox563)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xerox563&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="xerox563" /></p>
 
