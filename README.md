@@ -1,13 +1,8 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Amit Gangwar</h1>
 <h3 align="center">MERN Stack Developer | Problem Solver | Ethical Hacker</h3>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
-
-----------------------------------------------------------------------------------------------
-
-
-<h2> Hi, I'm Amit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>Software Enginner Intern at <a href="https://www.linkedin.com/company/stealth-startup-51/">Stealth Startup</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Final Year student at <a href="https://bietjhs.ac.in/">BIET Jhansi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
