@@ -55,7 +55,6 @@ const amit = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-gangwar-a63174250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit gangwar" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/xerox_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xerox_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nCoderr23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit gangwar" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/xerox7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<xerox7>/profile" height="30" width="40" /></a>
