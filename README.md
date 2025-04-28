@@ -28,6 +28,8 @@ const amit = {
  challenge: "I am doing the #100DaysOfCode challenge focused on React and Full Stack Development.",
   learning: ["GraphQL", "Linux"],
   experience: {
+    softwareEngineerIntern: "Avaronn",
+    softwareEngineerIntern: "Stealth (Trioo)",
     softwareEngineerIntern: "Bluestock Fintech",
     openSourceContributor: "GSSOC '24"
   },
