@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amit Gangwar</h1>
-<h3 align="center">MERN Stack Developer | Problem Solver | Ethical Hacker</h3>
+<h3 align="center">Full Stack Developer | agentic ai [Building Automations using n8n] | Problem Solver | Video Editor [After Effects]</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
