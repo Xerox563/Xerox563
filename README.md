@@ -42,6 +42,10 @@ Open source is where the code has to survive someone else's review. I contribute
 
 ### Featured upstream work
 
+<table>
+<tr>
+<td>
+
 #### [keepass-rs](https://github.com/sseemayer/keepass-rs) · `RUST` · `IN REVIEW`
 
 **Ancestor-aware three-way merge for KDBX databases**
@@ -49,6 +53,14 @@ Open source is where the code has to survive someone else's review. I contribute
 Designed the merge from first principles: one-sided changes apply even when their timestamps are older, true conflicts warn, and additions, deletions, moves, entry history, and custom icons are covered. Added 13 regression tests.
 
 [Read PR #390 →](https://github.com/sseemayer/keepass-rs/pull/390)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 #### [Recharts](https://github.com/recharts/recharts) · `TYPESCRIPT` · `MERGED + IN REVIEW`
 
@@ -58,6 +70,14 @@ Merged the Nightingale example. The Wind Rose example ships with nine visual-reg
 
 [PR #8095 →](https://github.com/recharts/recharts/pull/8095) · [PR #8118 →](https://github.com/recharts/recharts/pull/8118)
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 #### [Gazebo Sim](https://github.com/gazebosim/gz-sim) · `C++` · `5 MERGED + 1 IN REVIEW`
 
 **Namespace support across six simulation systems**
@@ -65,6 +85,10 @@ Merged the Nightingale example. The Wind Rose example ships with nine visual-reg
 CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, PerformerDetector, and KineticEnergyMonitor.
 
 [PR #4124 →](https://github.com/gazebosim/gz-sim/pull/4124) · [Merged PRs →](https://github.com/pulls?q=is%3Apr+author%3AXerox563+is%3Amerged+repo%3Agazebosim%2Fgz-sim)
+
+</td>
+</tr>
+</table>
 
 <sub>ALSO MERGED</sub> [ceph-csi #6677](https://github.com/ceph/ceph-csi/pull/6677) · [ORAS #2271](https://github.com/oras-project/oras/pull/2271) · [LangChain docs #7017](https://github.com/langchain-ai/docs/pull/7017)
 
@@ -101,6 +125,10 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 
 ## 03 / SELECTED WORK
 
+<table>
+<tr>
+<td>
+
 ### [MindVault](https://mindvault7.vercel.app/) · RAG knowledge platform
 
 `SOURCES → INGEST → EMBED → HYBRID RETRIEVE → CITED ANSWERS`
@@ -108,6 +136,14 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 Upload PDFs, DOCX, XLSX, or sync Google Drive, Sheets, Slack, and Notion. Hybrid BM25 plus Chroma retrieval, source-cited answers, Redis rate limits, and switchable LLM backends.
 
 [Live](https://mindvault7.vercel.app/) · [Code](https://github.com/Xerox563/MindVault)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 ### [Luminal](https://luminal-six.vercel.app/) · LLM routing gateway
 
@@ -117,6 +153,14 @@ A LangGraph routing engine that sends simple prompts to cheaper models across ei
 
 [Live](https://luminal-six.vercel.app/) · [Code](https://github.com/Xerox563/Luminal)
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 ### [Notification System](https://github.com/Xerox563/Notification-system) · Async delivery service
 
 `API → PRIORITY QUEUES → WORKERS → PROVIDERS → RETRY/DLQ`
@@ -124,6 +168,10 @@ A LangGraph routing engine that sends simple prompts to cheaper models across ei
 FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backoff, idempotency keys, a circuit breaker with provider fallback, and 4,000+ requests accepted under load with zero errors.
 
 [Code](https://github.com/Xerox563/Notification-system)
+
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
@@ -139,6 +187,10 @@ FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backo
 
 ## 05 / EXPERIENCE
 
+<table>
+<tr>
+<td>
+
 **i8CLOUD** · Software Developer · Jul 2025 - Present
 
 - Built a LightSpeed to Odoo integration syncing products, inventory, and pricing across 10+ stores through AWS event-driven and scheduled pipelines.
@@ -146,10 +198,22 @@ FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backo
 - Created an OCR document pipeline that cut manual receipt, POS, and invoice entry time by 30%.
 - Shipped a production RAG pipeline over 1,000+ candidate profiles and integrated Claude with Odoo to cut recruitment cycle time by 40%.
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
 **WittyHat** · Software Developer Intern · May 2025 - Jun 2025
 
 - Built Python backend services for YouTube automation with Celery workers, Google OAuth, and event-driven pipelines.
 - Cut page load time from 3.2s to 2.2s with lazy loading, caching, and MongoDB indexing.
+
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
