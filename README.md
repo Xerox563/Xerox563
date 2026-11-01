@@ -42,9 +42,11 @@ Open source is where the code has to survive someone else's review. I contribute
 
 ### Featured upstream work
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 #### [keepass-rs](https://github.com/sseemayer/keepass-rs) · `RUST` · `IN REVIEW`
 
@@ -54,13 +56,17 @@ Designed the merge from first principles: one-sided changes apply even when thei
 
 [Read PR #390 →](https://github.com/sseemayer/keepass-rs/pull/390)
 
+<img src="assets/glow.svg" alt="" width="100%">
+
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 #### [Recharts](https://github.com/recharts/recharts) · `TYPESCRIPT` · `MERGED + IN REVIEW`
 
@@ -70,13 +76,17 @@ Merged the Nightingale example. The Wind Rose example ships with nine visual-reg
 
 [PR #8095 →](https://github.com/recharts/recharts/pull/8095) · [PR #8118 →](https://github.com/recharts/recharts/pull/8118)
 
+<img src="assets/glow.svg" alt="" width="100%">
+
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 #### [Gazebo Sim](https://github.com/gazebosim/gz-sim) · `C++` · `5 MERGED + 1 IN REVIEW`
 
@@ -85,6 +95,8 @@ Merged the Nightingale example. The Wind Rose example ships with nine visual-reg
 CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, PerformerDetector, and KineticEnergyMonitor.
 
 [PR #4124 →](https://github.com/gazebosim/gz-sim/pull/4124) · [Merged PRs →](https://github.com/pulls?q=is%3Apr+author%3AXerox563+is%3Amerged+repo%3Agazebosim%2Fgz-sim)
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 </td>
 </tr>
@@ -125,9 +137,11 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 
 ## 03 / SELECTED WORK
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 ### [MindVault](https://mindvault7.vercel.app/) · RAG knowledge platform
 
@@ -137,13 +151,17 @@ Upload PDFs, DOCX, XLSX, or sync Google Drive, Sheets, Slack, and Notion. Hybrid
 
 [Live](https://mindvault7.vercel.app/) · [Code](https://github.com/Xerox563/MindVault)
 
+<img src="assets/glow.svg" alt="" width="100%">
+
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 ### [Luminal](https://luminal-six.vercel.app/) · LLM routing gateway
 
@@ -153,13 +171,17 @@ A LangGraph routing engine that sends simple prompts to cheaper models across ei
 
 [Live](https://luminal-six.vercel.app/) · [Code](https://github.com/Xerox563/Luminal)
 
+<img src="assets/glow.svg" alt="" width="100%">
+
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 ### [Notification System](https://github.com/Xerox563/Notification-system) · Async delivery service
 
@@ -168,6 +190,8 @@ A LangGraph routing engine that sends simple prompts to cheaper models across ei
 FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backoff, idempotency keys, a circuit breaker with provider fallback, and 4,000+ requests accepted under load with zero errors.
 
 [Code](https://github.com/Xerox563/Notification-system)
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 </td>
 </tr>
@@ -187,29 +211,38 @@ FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backo
 
 ## 05 / EXPERIENCE
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 **i8CLOUD** · Software Developer · Jul 2025 - Present
 
-- Built a LightSpeed to Odoo integration syncing products, inventory, and pricing across 10+ stores through AWS event-driven and scheduled pipelines.
-- Deployed an MCP-integrated leave management system for 200+ employees, with automated end-of-month balance notifications.
-- Created an OCR document pipeline that cut manual receipt, POS, and invoice entry time by 30%.
-- Shipped a production RAG pipeline over 1,000+ candidate profiles and integrated Claude with Odoo to cut recruitment cycle time by 40%.
+- Developed an AWS event-driven LightSpeed-to-Odoo sync for about 12,000 SKUs across 10+ stores. Handled 3,000+ daily events with under 30s latency and idempotent processing.
+- Deployed an MCP-integrated Claude assistant for Odoo's Time Off module, serving 200+ employees. Automated about 300 monthly leave requests and end-of-month balance notifications.
+- Built an OCR pipeline extracting invoice and POS data into Odoo with 95%+ accuracy. Processed about 2,000 monthly documents, cutting manual entry time by 40% for finance teams.
+- Shipped a RAG pipeline (LangChain, pgvector) for semantic search over 1,000+ candidate profiles. Integrated Claude via MCP, reducing recruitment screening time by 35%.
+- Engineered an AWS SQS + Lambda pipeline for async PDF ingestion of about 400 daily documents. Enabled real-time Q&A with under 5s processing latency and costs of about $0.005 per query.
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 **WittyHat** · Software Developer Intern · May 2025 - Jun 2025
 
 - Built Python backend services for YouTube automation with Celery workers, Google OAuth, and event-driven pipelines.
 - Cut page load time from 3.2s to 2.2s with lazy loading, caching, and MongoDB indexing.
+
+<img src="assets/glow.svg" alt="" width="100%">
 
 </td>
 </tr>
