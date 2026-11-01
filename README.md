@@ -143,11 +143,9 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 
 <img src="assets/glow.svg" alt="" width="100%">
 
-### [MindVault](https://mindvault7.vercel.app/) · RAG knowledge platform
+### [MindVault](https://mindvault7.vercel.app/) · Chat with your documents
 
-`SOURCES → INGEST → EMBED → HYBRID RETRIEVE → CITED ANSWERS`
-
-Upload PDFs, DOCX, XLSX, or sync Google Drive, Sheets, Slack, and Notion. Hybrid BM25 plus Chroma retrieval, source-cited answers, Redis rate limits, and switchable LLM backends.
+A smart assistant for your own documents. Upload your files or connect Google Drive, Slack, and Notion, then ask questions in plain English and get answers that point back to the exact source.
 
 [Live](https://mindvault7.vercel.app/) · [Code](https://github.com/Xerox563/MindVault)
 
@@ -163,11 +161,9 @@ Upload PDFs, DOCX, XLSX, or sync Google Drive, Sheets, Slack, and Notion. Hybrid
 
 <img src="assets/glow.svg" alt="" width="100%">
 
-### [Luminal](https://luminal-six.vercel.app/) · LLM routing gateway
+### [Luminal](https://luminal-six.vercel.app/) · Smart AI model picker
 
-`PROMPT → ANALYZE → RETRIEVE/TOOLS → ROUTE → GENERATE → CRITIC`
-
-A LangGraph routing engine that sends simple prompts to cheaper models across eight providers, retries when the critic scores an answer low, and tracks spend against budget thresholds.
+A smart switchboard for AI chat. It decides which AI model should answer each question, using cheap models for easy ones and strong models for hard ones, so you get good answers without overspending.
 
 [Live](https://luminal-six.vercel.app/) · [Code](https://github.com/Xerox563/Luminal)
 
@@ -183,13 +179,29 @@ A LangGraph routing engine that sends simple prompts to cheaper models across ei
 
 <img src="assets/glow.svg" alt="" width="100%">
 
-### [Notification System](https://github.com/Xerox563/Notification-system) · Async delivery service
+### [Notification System](https://github.com/Xerox563/Notification-system) · Email, SMS and push sender
 
-`API → PRIORITY QUEUES → WORKERS → PROVIDERS → RETRY/DLQ`
-
-FastAPI, Postgres, Redis, and Prometheus. Per-channel workers, exponential backoff, idempotency keys, a circuit breaker with provider fallback, and 4,000+ requests accepted under load with zero errors.
+A service that sends emails, SMS, and push notifications for an app. It makes sure every message goes out, retries when something fails, and never sends the same message twice.
 
 [Code](https://github.com/Xerox563/Notification-system)
+
+<img src="assets/glow.svg" alt="" width="100%">
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+<img src="assets/glow.svg" alt="" width="100%">
+
+### [Zero](https://github.com/Xerox563/Project_zero) · Voice-controlled desktop assistant
+
+A Jarvis-style assistant that sits on top of your Windows desktop and wakes up when you say "Hey Zero". Ask it for live news, weather, or market updates, watch a voice-controlled News TV, or open an article and chat about it. Simple commands run instantly, and anything else goes to an AI that can see your screen.
+
+[Code](https://github.com/Xerox563/Project_zero)
 
 <img src="assets/glow.svg" alt="" width="100%">
 
