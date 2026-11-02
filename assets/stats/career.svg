@@ -13,17 +13,17 @@
   <rect x="1" y="1" width="465" height="193" rx="10" fill="#141321" stroke="#2a2440" stroke-width="1"/>
   <text x="24" y="31" class="header">Amit Gangwar's GitHub Stats</text>
   <text x="24" y="50" class="tiny">auto-refreshed from the GitHub API</text>
-    <text x="24" y="72" class="label">Total stars earned</text><text x="222" y="72" class="value">29</text>
-    <text x="24" y="93" class="label">Commits (last year)</text><text x="222" y="93" class="value">703</text>
+    <text x="24" y="72" class="label">Total stars earned</text><text x="222" y="72" class="value">28</text>
+    <text x="24" y="93" class="label">Commits (last year)</text><text x="222" y="93" class="value">707</text>
     <text x="24" y="114" class="label">PRs opened (last year)</text><text x="222" y="114" class="value">42</text>
     <text x="24" y="135" class="label">Issues opened (last year)</text><text x="222" y="135" class="value">0</text>
     <text x="24" y="156" class="label">Repos contributed to</text><text x="222" y="156" class="value">33</text>
   <circle cx="374" cy="91" r="43" fill="none" stroke="#2a2440" stroke-width="9"/>
   <circle cx="374" cy="91" r="43" fill="none" stroke="#fe428e" stroke-width="9" stroke-linecap="round"
-          stroke-dasharray="162.11 270.18" transform="rotate(-90 374 91)"/>
+          stroke-dasharray="180.12 270.18" transform="rotate(-90 374 91)"/>
   <text x="374" y="94" text-anchor="middle" font-family="Segoe UI, Ubuntu, Helvetica Neue, sans-serif"
-        font-size="27" font-weight="800" fill="#a9fef7">9</text>
+        font-size="27" font-weight="800" fill="#a9fef7">10</text>
   <text x="374" y="112" text-anchor="middle" class="tiny" letter-spacing="1">MERGED</text>
   <text x="374" y="124" text-anchor="middle" class="tiny" letter-spacing="1">UPSTREAM</text>
-  <text x="24" y="179" class="tiny">Generated 29 Oct 2026 · github.com/Xerox563</text>
+  <text x="24" y="179" class="tiny">Generated 02 Nov 2026 · github.com/Xerox563</text>
 </svg>
