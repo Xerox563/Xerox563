@@ -12,8 +12,8 @@
 
 <!-- STATS:START -->
 <p align="center">
-  <code>906 contributions</code> · <code>707 commits</code><br>
-  <code>15 upstream PRs</code> · <code>10 merged</code> · <code>9 repos</code>
+  <code>908 contributions</code> · <code>707 commits</code><br>
+  <code>16 upstream PRs</code> · <code>10 merged</code> · <code>10 repos</code>
 </p>
 <!-- STATS:END -->
 
@@ -35,8 +35,8 @@ Open source is where the code has to survive someone else's review. I contribute
 
 <!-- OSS:START -->
 <p align="center">
-  <strong>15</strong> upstream pull requests across <strong>9</strong> repositories.<br>
-  <strong>10</strong> merged · <strong>5</strong> in review.
+  <strong>16</strong> upstream pull requests across <strong>10</strong> repositories.<br>
+  <strong>10</strong> merged · <strong>6</strong> in review.
 </p>
 <!-- OSS:END -->
 
@@ -112,6 +112,8 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 <!-- OSS_LOG:START -->
 | Repository | Pull request | Status |
 |---|---|---|
+| [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | [#4124: Add namespace support to CameraVideoRecorder](https://github.com/gazebosim/gz-sim/pull/4124) | in review |
+| [memtomem/memtomem](https://github.com/memtomem/memtomem) | [#3013: feat(cli): add help examples for config and session groups](https://github.com/memtomem/memtomem/pull/3013) | in review |
 | [recharts/recharts](https://github.com/recharts/recharts) | [#8118: docs(www): add multi-series wind rose example](https://github.com/recharts/recharts/pull/8118) | merged 2026-10-29 |
 | [sseemayer/keepass-rs](https://github.com/sseemayer/keepass-rs) | [#390: feat(merge): add ancestor-aware three-way merge](https://github.com/sseemayer/keepass-rs/pull/390) | in review |
 | [recharts/recharts](https://github.com/recharts/recharts) | [#8095: docs(www): add Nightingale chart example](https://github.com/recharts/recharts/pull/8095) | merged 2026-10-28 |
@@ -119,7 +121,6 @@ CameraVideoRecorder, PosePublisher, DetachableJoint, FreeSpaceExplorer, Performe
 | [meta/stylex](https://github.com/meta/stylex) | [#1997: [babel-plugin] Polyfill logical border radius properties](https://github.com/meta/stylex/pull/1997) | in review |
 | [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | [#4127: Add namespace support to KineticEnergyMonitor](https://github.com/gazebosim/gz-sim/pull/4127) | merged 2026-10-27 |
 | [apitable/apitable](https://github.com/apitable/apitable) | [#1823: feat: add theme toggle to space management](https://github.com/apitable/apitable/pull/1823) | in review |
-| [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | [#4124: Add namespace support to CameraVideoRecorder](https://github.com/gazebosim/gz-sim/pull/4124) | in review |
 | [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | [#4126: Add namespace support to PerformerDetector](https://github.com/gazebosim/gz-sim/pull/4126) | merged 2026-10-27 |
 | [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) | [#4121: Add namespace support to PosePublisher](https://github.com/gazebosim/gz-sim/pull/4121) | merged 2026-10-27 |
 | [ceph/ceph-csi](https://github.com/ceph/ceph-csi) | [#6677: util: add --config flag for the Ceph-CSI config file path](https://github.com/ceph/ceph-csi/pull/6677) | merged 2026-10-26 |
@@ -309,5 +310,5 @@ B.Tech in Information Technology, Bundelkhand Institute of Engineering and Techn
 </p>
 
 <!-- UPDATED:START -->
-<p align="center"><sub>Stats refreshed 02 Nov 2026 by GitHub Actions.</sub></p>
+<p align="center"><sub>Stats refreshed 09 Nov 2026 by GitHub Actions.</sub></p>
 <!-- UPDATED:END -->
